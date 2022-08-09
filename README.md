@@ -1,2 +1,73 @@
-# LIN389
-LIN389c
+---
+layout: course
+title: LIN389C Research in Computational Linguistics
+courseid: LIN 389C
+coursename: Research in Computational Linguistics
+semester: Fall 2022
+menuitem_1: Course Information
+menuitem_2: Topics
+menuitem_3: Schedule
+canvas: https://utexas.instructure.com/courses/1331701
+---
+<a name="Course Information"></a>
+## Course Information
+*   **Course**: LIN 389C, Research in Computational Linguistics
+*   **Semester**: Spring 2022
+*   **Webpage**: [mahowak.github.io/LIN389](mahowak.github.io/LIN389)
+* **Canvas**: [https://utexas.instructure.com/courses/1331701](https://utexas.instructure.com/courses/1331701)
+*   **Meeting**: W 9-12, RLP 4.422 
+
+### Contact information
+*   **Course organizer**: [Kyle Mahowald](http://jessyli.com); email: [mahowald@utexas.edu](mailto:mahowald@utexas.edu)
+    *   Office hours: F 9:30-11:00 on Zoom (link on Canvas)
+
+### Course Purpose
+To teach about, encourage, and give students time for research. Also to establish vertical cohorts among students interested in the same subfield.
+
+### Course Organization
+There are six constituencies who will not be treated exactly equally in the course because their needs are different:
+*   **first-year students**: need general context and help on first research projects and first-year papers;
+*   **second-year students**: need feedback on the research they have done, prepare for further research, and write second-year papers;
+*   **third-year students**: need to write their Qualifying Papers (QP), write grant proposals;
+*   **post-candidacy pre-proposal students**: need to write and present their dissertation proposals;
+*   **post-candidacy dissertation students**: need to write dissertations, get feedback;
+*   **students from other departments**: needs will vary. NOTE that this course is designed to provide support and necessary foundations to research in Computational Linguistics, rather than an overview of research topics. You are expected to carry out one research project throughout the semester.
+
+### Course Components
+*   [Suggested topic list](#Topics)
+*   Research seminar: This semester we focus on a recent papers in computational linguistics. Topics and readings will be given under [schedule](#Schedule). 
+This semester we will try a **new format**: each will prepare 3 bullets about what you like about the paper, 3 bullets about what you don't, plus questions/other comments!
+*   Discussion of ongoing student research:
+    *   Round-table: short presentations by all participants about their current research. This will happen almost every week.
+    *   On-going research: longer presentations (30 minutes or an hour including discussion), students, faculty, auditors if they wish.
+    *   Dissertation proposal presentations.
+    *   Dissertation progress talks.
+    *   Practice talks for conference presentations.
+
+### Requirements
+*   **First-year students**: Attend all classes/activities. Talk about research.<br />
+First semester, submit literature discussion sketch halfway through the semester, submit literature discussion at end of semester. <br />
+Second semester, submit first-year paper draft halfway through the semester, submit first-year paper at end of semester. 
+*   **Second-year students**: Attend all classes/activities. Talk about research.<br />
+First semester, submit research discussion draft halfway through the semester, submit research discussion paper at end of semester. <br />
+Second semester, submit second-year paper draft halfway through the semester, submit second-year paper at end of semester.
+*   **Third-year students**: Attend all classes/activities. Talk about research.<br />
+First semester, submit QP proposal halfway through the semester, submit QP progress report at end of semester. <br />
+Second semester, submit QP draft halfway through the semester, submit QP at end of semester.
+*   **Post-candidacy, pre-proposal students**: Attend all presentations. Talk about research.
+*   **Dissertation-writing students**: Attend all presentations, give at least one presentation during semester on doctoral research.
+*   **Students from other departments**: a course project, with 2 documents: intermediate report (2-3 pages), final report (8 pages).
+
+### COVID Guidance
+To help keep everyone at UT and in our community safe, it is critical that students report COVID-19 symptoms and testing, regardless of test results, to [University Health Services](https://www.healthyhorns.utexas.edu/), and faculty and staff report to the [HealthPoint Occupational Health Program (OHP)](https://hr.utexas.edu/current/services/occupational-health-program) as soon as possible. Please see [this link](https://hr.utexas.edu/current/services/occupational-health-program) to understand what needs to be reported.  In addition, to help understand what to do if a fellow student in the class (or the instructor or TA) tests positive for COVID, see [this University Health Services link](https://healthyhorns.utexas.edu/coronavirus_exposure_action_chart.html).
+
+<a name="Topics"></a>
+## Topics
+*   TBA
+
+<a name="Schedule"></a>
+## Schedule
+Each week, unless noted otherwise, we use the first part of the class to discuss the topic of the week, and we use the second part for a round-table discussing people's research.
+*   **Week 1, 1/19** 
+    *   Plan for the semester: Which topics to focus on, who gives talks where.
+    *   Extended round table: Research results and research/publication plans for the spring.
