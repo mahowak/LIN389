@@ -1,15 +1,5 @@
----
-layout: course
-title: LIN389C Research in Computational Linguistics
-courseid: LIN 389C
-coursename: Research in Computational Linguistics
-semester: Fall 2022
-menuitem_1: Course Information
-menuitem_2: Topics
-menuitem_3: Schedule
-canvas: https://utexas.instructure.com/courses/1331701
----
-<a name="Course Information"></a>
+# LIN 389c
+
 ## Course Information
 *   **Course**: LIN 389C, Research in Computational Linguistics
 *   **Semester**: Spring 2022
@@ -61,11 +51,9 @@ Second semester, submit QP draft halfway through the semester, submit QP at end 
 ### COVID Guidance
 To help keep everyone at UT and in our community safe, it is critical that students report COVID-19 symptoms and testing, regardless of test results, to [University Health Services](https://www.healthyhorns.utexas.edu/), and faculty and staff report to the [HealthPoint Occupational Health Program (OHP)](https://hr.utexas.edu/current/services/occupational-health-program) as soon as possible. Please see [this link](https://hr.utexas.edu/current/services/occupational-health-program) to understand what needs to be reported.  In addition, to help understand what to do if a fellow student in the class (or the instructor or TA) tests positive for COVID, see [this University Health Services link](https://healthyhorns.utexas.edu/coronavirus_exposure_action_chart.html).
 
-<a name="Topics"></a>
 ## Topics
 *   TBA
 
-<a name="Schedule"></a>
 ## Schedule
 Each week, unless noted otherwise, we use the first part of the class to discuss the topic of the week, and we use the second part for a round-table discussing people's research.
 *   **Week 1, 1/19** 
