@@ -4,7 +4,7 @@
 *   **Course**: LIN 389C, Research in Computational Linguistics
 *   **Semester**: Spring 2022
 *   **Webpage**: [mahowak.github.io/LIN389](mahowak.github.io/LIN389)
-* **Canvas**: [https://utexas.instructure.com/courses/1331701](https://utexas.instructure.com/courses/1331701)
+* **Canvas**: [https://utexas.instructure.com/courses/1331701](https://utexas.instructure.com/courses/1338681)
 *   **Meeting**: W 9-12, RLP 4.422 
 
 ### Contact information
@@ -56,6 +56,11 @@ To help keep everyone at UT and in our community safe, it is critical that stude
 
 ## Schedule
 Each week, unless noted otherwise, we use the first part of the class to discuss the topic of the week, and we use the second part for a round-table discussing people's research.
-*   **Week 1, 1/19** 
+*   **Week 1, 8/24** 
     *   Plan for the semester: Which topics to focus on, who gives talks where.
     *   Extended round table: Research results and research/publication plans for the spring.
+
+*   **Week 2, 8/31** 
+    *   Reading: [Warstadt & Bowman, 2022](https://arxiv.org/pdf/2208.07998.pdf)
+    *   Long Update: Maansi
+    *   Research updates: general
