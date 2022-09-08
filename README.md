@@ -68,3 +68,7 @@ Each week, unless noted otherwise, we use the first part of the class to discuss
 *   **Week 3, 7/7** 
     *   Reading: [Hernandez et al., Scaling Law for Transfer](https://arxiv.org/pdf/2102.01293.pdf)
     *   Long Update: NONE
+
+*   **Week 4, 7/14** 
+    *   Reading: [Wei, et al. Emergent Abilities of Large Language Models](https://openreview.net/pdf?id=yzkSU5zdwD)
+    *   Long Update: NONE
