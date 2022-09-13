@@ -70,5 +70,6 @@ Each week, unless noted otherwise, we use the first part of the class to discuss
     *   Long Update: NONE
 
 *   **Week 4, 7/14** 
-    *   Reading: [Wei, et al. Emergent Abilities of Large Language Models](https://openreview.net/pdf?id=yzkSU5zdwD)
+    *   Ellie Pavlick talk, we will watch live in class
+    *   POSTPONED: Reading: [Wei, et al. Emergent Abilities of Large Language Models](https://openreview.net/pdf?id=yzkSU5zdwD)
     *   Long Update: NONE
