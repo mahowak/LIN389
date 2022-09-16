@@ -65,11 +65,16 @@ Each week, unless noted otherwise, we use the first part of the class to discuss
     *   Long Update: Maansi
     *   Research updates: general
 
-*   **Week 3, 7/7** 
+*   **Week 3, 9/7** 
     *   Reading: [Hernandez et al., Scaling Law for Transfer](https://arxiv.org/pdf/2102.01293.pdf)
     *   Long Update: NONE
 
-*   **Week 4, 7/14** 
+*   **Week 4, 9/14** 
     *   Ellie Pavlick talk, we will watch live in class
     *   POSTPONED: Reading: [Wei, et al. Emergent Abilities of Large Language Models](https://openreview.net/pdf?id=yzkSU5zdwD)
+    *   Long Update: NONE
+
+*   **Week 5, 9/21** 
+    *   Shane Steinert-Threlkeld visits
+    *   Reading: Steinert-Threlkeld et al. on [Learning to translate by learning to communicate](https://arxiv.org/pdf/2207.07025.pdf). [Optional reading: a related position piece](https://openreview.net/forum?id=SUqrM7WR7W5)
     *   Long Update: NONE
