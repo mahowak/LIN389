@@ -78,3 +78,9 @@ Each week, unless noted otherwise, we use the first part of the class to discuss
     *   Shane Steinert-Threlkeld visits
     *   Reading: Steinert-Threlkeld et al. on [Learning to translate by learning to communicate](https://arxiv.org/pdf/2207.07025.pdf). [Optional reading: a related position piece](https://openreview.net/forum?id=SUqrM7WR7W5)
     *   Long Update: NONE
+
+*   **Week 6, 9/28** 
+    *   Reading: Pine et al. on [Requirements and Motivations of Low-Resource Speech Synthesis for Language Revitalization
+](https://aclanthology.org/2022.acl-long.507/).
+    *   Long Update: Gabriella
+
