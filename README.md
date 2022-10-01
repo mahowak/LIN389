@@ -84,3 +84,6 @@ Each week, unless noted otherwise, we use the first part of the class to discuss
 ](https://aclanthology.org/2022.acl-long.507/).
     *   Long Update: Gabriella
 
+*   **Week 7, 10/5** 
+    *   Reading: Yin et al. on [Including signed languages in Natural Language Processing](https://arxiv.org/pdf/2105.05222.pdf/).
+    *   Long Update: Smriti
