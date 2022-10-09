@@ -87,3 +87,7 @@ Each week, unless noted otherwise, we use the first part of the class to discuss
 *   **Week 7, 10/5** 
     *   Reading: Yin et al. on [Including signed languages in Natural Language Processing](https://arxiv.org/pdf/2105.05222.pdf/).
     *   Long Update: Smriti
+
+*   **Week 7, 10/12** 
+    *   Reading:  [What's basic about basic emotion?](http://www.communicationcache.com/uploads/1/0/8/8/10887248/whats_basic_about_basic_emotions.pdf/).
+    *   Long Update: Will and Venkat
