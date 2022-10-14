@@ -89,5 +89,10 @@ Each week, unless noted otherwise, we use the first part of the class to discuss
     *   Long Update: Smriti
 
 *   **Week 7, 10/12** 
-    *   Reading:  [What's basic about basic emotion?](http://www.communicationcache.com/uploads/1/0/8/8/10887248/whats_basic_about_basic_emotions.pdf/).
+    *   Reading:  [What's basic about basic emotion?](http://www.communicationcache.com/uploads/1/0/8/8/10887248/whats_basic_about_basic_emotions.pdf).
     *   Long Update: Will and Venkat
+
+*   **Week 8, 10/19** 
+    *   Reading:  [GoEmotions](https://arxiv.org/pdf/2005.00547.pdf).
+    *   Long Update: Anisha
+
