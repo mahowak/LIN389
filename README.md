@@ -96,3 +96,6 @@ Each week, unless noted otherwise, we use the first part of the class to discuss
     *   Reading:  [GoEmotions](https://arxiv.org/pdf/2005.00547.pdf).
     *   Long Update: Anisha
 
+*   **Week 9, 10/26** 
+    *   Reading:  Allyson Ettinger visit
+    *   Long Update: none
