@@ -99,3 +99,7 @@ Each week, unless noted otherwise, we use the first part of the class to discuss
 *   **Week 9, 10/26** 
     *   Reading:  Allyson Ettinger visit
     *   Long Update: none
+
+*   **Week 10, 11/2** 
+    *   Reading:  Elman [On the Meaning of Words and Dinosaur Bones](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01023.x)
+    *   Long Update: Yejin
