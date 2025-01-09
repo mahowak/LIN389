@@ -2,14 +2,12 @@
 
 ## Course Information
 *   **Course**: LIN 389C, Research in Computational Linguistics
-*   **Semester**: Spring 2022
+*   **Semester**: Spring 2025
 *   **Webpage**: [mahowak.github.io/LIN389](mahowak.github.io/LIN389)
-* **Canvas**: [https://utexas.instructure.com/courses/1331701](https://utexas.instructure.com/courses/1338681)
-*   **Meeting**: W 9-12, RLP 4.422 
+*   **Meeting**: M 9-12, RLP 4.422 
 
 ### Contact information
 *   **Course organizer**: [Kyle Mahowald](http://jessyli.com); email: [mahowald@utexas.edu](mailto:mahowald@utexas.edu)
-    *   Office hours: F 9:30-11:00 on Zoom (link on Canvas)
 
 ### Course Purpose
 To teach about, encourage, and give students time for research. Also to establish vertical cohorts among students interested in the same subfield.
@@ -48,58 +46,11 @@ Second semester, submit QP draft halfway through the semester, submit QP at end 
 *   **Dissertation-writing students**: Attend all presentations, give at least one presentation during semester on doctoral research.
 *   **Students from other departments**: a course project, with 2 documents: intermediate report (2-3 pages), final report (8 pages).
 
-### COVID Guidance
-To help keep everyone at UT and in our community safe, it is critical that students report COVID-19 symptoms and testing, regardless of test results, to [University Health Services](https://www.healthyhorns.utexas.edu/), and faculty and staff report to the [HealthPoint Occupational Health Program (OHP)](https://hr.utexas.edu/current/services/occupational-health-program) as soon as possible. Please see [this link](https://hr.utexas.edu/current/services/occupational-health-program) to understand what needs to be reported.  In addition, to help understand what to do if a fellow student in the class (or the instructor or TA) tests positive for COVID, see [this University Health Services link](https://healthyhorns.utexas.edu/coronavirus_exposure_action_chart.html).
-
-## Topics
-*   TBA
 
 ## Schedule
 Each week, unless noted otherwise, we use the first part of the class to discuss the topic of the week, and we use the second part for a round-table discussing people's research.
-*   **Week 1, 8/24** 
+*   **Week 1, 1/13** 
     *   Plan for the semester: Which topics to focus on, who gives talks where.
-    *   Extended round table: Research results and research/publication plans for the spring.
 
-*   **Week 2, 8/31** 
-    *   Reading: [Warstadt & Bowman, 2022](https://arxiv.org/pdf/2208.07998.pdf)
-    *   Long Update: Maansi
-    *   Research updates: general
 
-*   **Week 3, 9/7** 
-    *   Reading: [Hernandez et al., Scaling Law for Transfer](https://arxiv.org/pdf/2102.01293.pdf)
-    *   Long Update: NONE
 
-*   **Week 4, 9/14** 
-    *   Ellie Pavlick talk, we will watch live in class
-    *   POSTPONED: Reading: [Wei, et al. Emergent Abilities of Large Language Models](https://openreview.net/pdf?id=yzkSU5zdwD)
-    *   Long Update: NONE
-
-*   **Week 5, 9/21** 
-    *   Shane Steinert-Threlkeld visits
-    *   Reading: Steinert-Threlkeld et al. on [Learning to translate by learning to communicate](https://arxiv.org/pdf/2207.07025.pdf). [Optional reading: a related position piece](https://openreview.net/forum?id=SUqrM7WR7W5)
-    *   Long Update: NONE
-
-*   **Week 6, 9/28** 
-    *   Reading: Pine et al. on [Requirements and Motivations of Low-Resource Speech Synthesis for Language Revitalization
-](https://aclanthology.org/2022.acl-long.507/).
-    *   Long Update: Gabriella
-
-*   **Week 7, 10/5** 
-    *   Reading: Yin et al. on [Including signed languages in Natural Language Processing](https://arxiv.org/pdf/2105.05222.pdf/).
-    *   Long Update: Smriti
-
-*   **Week 7, 10/12** 
-    *   Reading:  [What's basic about basic emotion?](http://www.communicationcache.com/uploads/1/0/8/8/10887248/whats_basic_about_basic_emotions.pdf).
-    *   Long Update: Will and Venkat
-
-*   **Week 8, 10/19** 
-    *   Reading:  [GoEmotions](https://arxiv.org/pdf/2005.00547.pdf).
-    *   Long Update: Anisha
-
-*   **Week 9, 10/26** 
-    *   Reading:  Allyson Ettinger visit
-    *   Long Update: none
-
-*   **Week 10, 11/2** 
-    *   Reading:  Elman [On the Meaning of Words and Dinosaur Bones](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01023.x)
-    *   Long Update: Yejin
