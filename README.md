@@ -4,10 +4,10 @@
 *   **Course**: LIN 389C, Research in Computational Linguistics
 *   **Semester**: Spring 2025
 *   **Webpage**: [mahowak.github.io/LIN389](mahowak.github.io/LIN389)
-*   **Meeting**: M 9-12, RLP 4.422 
+*   **Meeting**: W 9-12, RLP 4.422 
 
 ### Contact information
-*   **Course organizer**: [Kyle Mahowald](http://jessyli.com); email: [mahowald@utexas.edu](mailto:mahowald@utexas.edu)
+*   **Course organizer**: [Kyle Mahowald](https://mahowak.github.io); email: [mahowald@utexas.edu](mailto:mahowald@utexas.edu)
 
 ### Course Purpose
 To teach about, encourage, and give students time for research. Also to establish vertical cohorts among students interested in the same subfield.
@@ -49,8 +49,50 @@ Second semester, submit QP draft halfway through the semester, submit QP at end 
 
 ## Schedule
 Each week, unless noted otherwise, we use the first part of the class to discuss the topic of the week, and we use the second part for a round-table discussing people's research.
-*   **Week 1, 1/13** 
+*   **Week 1, 1/15** 
     *   Plan for the semester: Which topics to focus on, who gives talks where.
 
+*   **Week 2, 1/22** 
+    *   [DAS paper](https://arxiv.org/abs/2303.02536)
+  
+*   **Week 3, 1/29** 
+    *   [Juan Diego leads](https://arxiv.org/abs/2410.22590)
+    *   Wenxuan long update
+
+*   **Week 4, 2/5** 
+    *  David Beaver leads
+    *  paper: https://aclanthology.org/2024.findings-acl.303/
+    *  no long update
+
+*   **Week 5, 2/12** 
+    *  Gabriella long update
+
+*   **Week 6, 2/19** 
+    *   Sooji long update
+
+*   **Week 7, 2/26** 
+    *   Hongli long update
+
+*   **Week 8, 3/5** 
+    *  Will long update
+
+*   **Week 9, 3/12** 
+    *  Sasha long update
+
+*   **Week 10, 3/26** 
+    *  Siyuan long update
+
+*   **Week 11, 4/2** 
+    *  Asher long update
+
+*   **Week 12, 4/9** 
+    * Fangcong long update
+
+*   **Week 13, 4/16** 
+    *  Qing long update
+
+
+*   **Week 14, 4/23** 
+    *  Zhisheng long update
 
 
